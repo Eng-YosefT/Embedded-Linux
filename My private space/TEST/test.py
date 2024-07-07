@@ -1,2 +1,0 @@
-name="Youseef"
-len(name)

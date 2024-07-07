@@ -14,8 +14,7 @@ git push -u origin main
 
 Eng-YosefT
 
-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
-get pass from
+Sget pass from
 https://github.com/settings/tokens
 git clone رابط الريبو to dawnload
 عدل على فايلاتك ضيف شغلك الخ..
